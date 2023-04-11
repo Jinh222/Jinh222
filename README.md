@@ -1,16 +1,16 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&&color=auto&height=150&section=header&text=&fontSize=90)
 
 <div align='center'>
-gmail: jhyeom1545@gmail.com<br>
-velog: https://velog.io/@jhyeom1545
+gmail: geniejinhee7@gmail.com<br>
+velog: 
 </div>
 <br>
 
 
 
 <div align='center'> 🔧Stack<br><br>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black">&nbsp&nbsp
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white">
+<!-- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black">&nbsp&nbsp
+ <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"> -->
 </div><br>
 
 <div align='center'> 📦 Database<br><br>
